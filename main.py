@@ -20,7 +20,7 @@ time.sleep(3)
 pyautogui.click(x=527, y=401)
 pyautogui.write('jonathan.analista')
 pyautogui.press('tab')
-pyautogui.write('12345')
+pyautogui.write('123456')
 pyautogui.press('tab')
 pyautogui.press('enter')
 
